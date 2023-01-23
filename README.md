@@ -41,6 +41,8 @@ Testowanie aplikacji: [zobacz](https://scouts-test.futbolkolektyw.pl/players?sta
 * filtrowanie wyników
 * wybór danych wyświetlanych w kolumnach
 
+#00FF00 _Nie wiem_
+
 3. 
 
 

@@ -12,3 +12,5 @@ Postanowiłam wziąć udział w projekcie DareIT, żeby:
 Mam nadzieję, że będzie to świetne wyzwanie i może początek nowej drogi kariery!
 
 **_Justyna_**:heart:
+## Subtask 4
+Testowanie aplikacji: [zobacz](https://scouts-test.futbolkolektyw.pl/players?start=1&query=lewy) :slightly_smiling_face:

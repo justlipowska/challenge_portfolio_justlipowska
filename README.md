@@ -15,7 +15,7 @@ Mam nadzieję, że będzie to świetne wyzwanie i może początek nowej drogi ka
 ## Subtask 4
 Testowanie aplikacji: [zobacz](https://scouts-test.futbolkolektyw.pl/players?start=1&query=lewy) :slightly_smiling_face:
 
-Aplikacja umożliwia wyszukiwanie zawodników i sprawdzanie podstawowych informacji, takich jak:
+1. Aplikacja umożliwia wyszukiwanie zawodników i sprawdzanie podstawowych informacji, takich jak:
 * wiek
 * nazwa klubu piłkarskiego
 * pozycja, na której gra zawodnik
@@ -24,16 +24,24 @@ Aplikacja umożliwia wyszukiwanie zawodników i sprawdzanie podstawowych informa
 * mecze
 * raporty
 
-Funkcjonalności, które posiada aplikacja:
+2. Funkcjonalności, które posiada aplikacja:
 * logowanie
 * wylogowanie
+* dodawanie zawodnika
 * wyszukiwanie
-*  po imieniu
-*  po nazwisku
-*  po wieku
-*  po pozycji
-*  po klubie
-*  po ocenie
+  *  po imieniu
+  *  po nazwisku
+  *  po wieku
+  *  po pozycji
+  *  po klubie
+  *  po ocenie
+* zmiana języka 
+* pobranie pliku csv
+* drukowanie
+* filtrowanie wyników
+* wybór danych wyświetlanych w kolumnach
+
+3. 
 
 
     Na czym polega ta aplikacja? Do czego służy?

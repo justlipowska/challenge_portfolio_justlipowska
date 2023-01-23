@@ -41,9 +41,9 @@ Testowanie aplikacji: [zobacz](https://scouts-test.futbolkolektyw.pl/players?sta
 * filtrowanie wyników
 * wybór danych wyświetlanych w kolumnach
 
-_Alikacja jest prosta, co sprawia, że jest w miarę intuicyjna. Mogłaby być trochę bardziej rozbudowana. Nie podoba mi się jej interfejs - kolorystyka, rozmieszczenie poszczególnych funkcji na stronie. 
+_Alikacja jest bardzo prosta. Mogłaby być trochę bardziej rozbudowana. Nie podoba mi się jej interfejs - kolorystyka, rozmieszczenie poszczególnych funkcji na stronie. Sprawia to wrażenie nieładu_
 
-3. Aplikacja jest intuicyjna ale jedynie z tego względu, że jest bardzo prosta. Możliwość wyszukania zawodnikó powinna znajdować się jednak na stronie głównej, w centralnej części strony a nie w zakładce "gracze".
+3. Aplikacja jest intuicyjna ale jedynie z tego względu, że jest bardzo prosta. Możliwość wyszukania zawodników powinna znajdować się jednak na stronie głównej, w centralnej części strony a nie w zakładce "gracze".
 4. Błędy:
 * Możliwość wpisania czegokolwiek w formularzu dodawania nowego zawodnika
 * aplikacja nie wyłapuje duplikatów i umożliwia dodawanie tych samych graczy po kilka razy

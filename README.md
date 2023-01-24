@@ -53,8 +53,8 @@ _Alikacja jest bardzo prosta. Mogłaby być trochę bardziej rozbudowana. Nie po
 ## Subtask 3
 **_Dlaczego piszemy test case`y?_**
 
-* a
-* b
-* c
-* d
+* żeby trzymać się harmonogramu działań testowych
+* żeby nie pominąć żadnego obszaru testowania
+* żeby wiadomo było co testowaliśmy jeśli trzeba będzie wrócić do danego projektu
+
 

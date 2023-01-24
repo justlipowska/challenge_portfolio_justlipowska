@@ -52,9 +52,9 @@ _Alikacja jest bardzo prosta. Mogłaby być trochę bardziej rozbudowana. Nie po
 * wyszukiwarka w górnym panelu znajduje tylko jeden wyraz np. „Robert” lub „Lewandowski” – w tej sytuacji wyszukuje wszystkich Robertów albo wszystkich Lewandowskich. Po wpisaniu w wyszukiwarke w górnym panelu np. "Robert Lewandowski” - nie otrzymujemy żadnych wynikow, mimo istnienia zawodnika w bazie.
 ## Subtask 3
 **_Dlaczego piszemy test case`y?_**
-*
-*
-*
-*
-*
+
+* a
+* b
+* c
+* d
 

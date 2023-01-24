@@ -51,4 +51,5 @@ _Alikacja jest bardzo prosta. Mogłaby być trochę bardziej rozbudowana. Nie po
 * aplikacja nie wyłapuje duplikatów i umożliwia dodawanie tych samych graczy po kilka razy
 * wyszukiwarka w górnym panelu znajduje tylko jeden wyraz np. „Robert” lub „Lewandowski” – w tej sytuacji wyszukuje wszystkich Robertów albo wszystkich Lewandowskich. Po wpisaniu w wyszukiwarke w górnym panelu np. "Robert Lewandowski” - nie otrzymujemy żadnych wynikow, mimo istnienia zawodnika w bazie.
 ## Subtask 3
-Dlaczego piszemy test case`y?
+**_Dlaczego piszemy test case`y?_**
+

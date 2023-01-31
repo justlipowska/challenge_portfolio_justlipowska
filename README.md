@@ -68,5 +68,18 @@ _Alikacja jest bardzo prosta. Mogłaby być trochę bardziej rozbudowana. Nie po
 
 # Task 3
 ## Subtask 1
+**_Utworzenie formatki do zgłaszania błędów systemu_**
+
+[https://docs.google.com/spreadsheets/d/1WiQfyWFYqd9oDWCtXYY8kRuhPOvBR6tx4fdzTgnRFDo/edit?usp=share_link](https://docs.google.com/spreadsheets/d/1WiQfyWFYqd9oDWCtXYY8kRuhPOvBR6tx4fdzTgnRFDo/edit?usp=share_link)
 
 ## Subtask 2
+**_Testowanie według planów testów i raportowanie błędów_**
+
+User stories: [https://docs.google.com/spreadsheets/d/11GxfH7SWKMqTpzc8pukJUug0d26dYuKF1KphYD0jHBg/edit?usp=share_link](https://docs.google.com/spreadsheets/d/11GxfH7SWKMqTpzc8pukJUug0d26dYuKF1KphYD0jHBg/edit?usp=share_link)
+
+My own TC: [https://docs.google.com/spreadsheets/d/1jTDWz9B7U6AF-L8WQuISr_7DCuwsS1i66NyKIlRBlQQ/edit?usp=share_link](https://docs.google.com/spreadsheets/d/1jTDWz9B7U6AF-L8WQuISr_7DCuwsS1i66NyKIlRBlQQ/edit?usp=share_link)
+
+## Subtask 3
+**_Raport z wykonanych testów_**
+
+Raport: [https://docs.google.com/document/d/1eeVHmOYlasdOzhEJGUZXHkSX7_ako_yHmhOZLSY4h9g/edit?usp=share_link](https://docs.google.com/document/d/1eeVHmOYlasdOzhEJGUZXHkSX7_ako_yHmhOZLSY4h9g/edit?usp=share_link)

@@ -50,6 +50,15 @@ _Alikacja jest bardzo prosta. Mogłaby być trochę bardziej rozbudowana. Nie po
 * możliwość wpisania wartości ujemnych w polu "wiek"
 * aplikacja nie wyłapuje duplikatów i umożliwia dodawanie tych samych graczy po kilka razy
 * wyszukiwarka w górnym panelu znajduje tylko jeden wyraz np. „Robert” lub „Lewandowski” – w tej sytuacji wyszukuje wszystkich Robertów albo wszystkich Lewandowskich. Po wpisaniu w wyszukiwarke w górnym panelu np. "Robert Lewandowski” - nie otrzymujemy żadnych wynikow, mimo istnienia zawodnika w bazie.
+# Task 2
+## Subtask 1
+
+[https://docs.google.com/spreadsheets/d/11GxfH7SWKMqTpzc8pukJUug0d26dYuKF1KphYD0jHBg/edit?usp=share_link](https://docs.google.com/spreadsheets/d/11GxfH7SWKMqTpzc8pukJUug0d26dYuKF1KphYD0jHBg/edit?usp=share_link)
+
+## Subtask 2
+
+[https://docs.google.com/spreadsheets/d/1jTDWz9B7U6AF-L8WQuISr_7DCuwsS1i66NyKIlRBlQQ/edit?usp=share_link](https://docs.google.com/spreadsheets/d/1jTDWz9B7U6AF-L8WQuISr_7DCuwsS1i66NyKIlRBlQQ/edit?usp=share_link)
+
 ## Subtask 3
 **_Dlaczego piszemy test case`y?_**
 

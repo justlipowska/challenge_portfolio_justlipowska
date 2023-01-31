@@ -66,4 +66,7 @@ _Alikacja jest bardzo prosta. Mogłaby być trochę bardziej rozbudowana. Nie po
 * żeby nie pominąć żadnego obszaru testowania
 * żeby wiadomo było co testowaliśmy jeśli trzeba będzie wrócić do danego projektu
 
+# Task 3
+## Subtask 1
 
+## Subtask 2

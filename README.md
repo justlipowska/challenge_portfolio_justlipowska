@@ -83,3 +83,10 @@ My own TC: [https://docs.google.com/spreadsheets/d/1jTDWz9B7U6AF-L8WQuISr_7DCuws
 **_Raport z wykonanych testów_**
 
 Raport: [https://docs.google.com/document/d/1eeVHmOYlasdOzhEJGUZXHkSX7_ako_yHmhOZLSY4h9g/edit?usp=share_link](https://docs.google.com/document/d/1eeVHmOYlasdOzhEJGUZXHkSX7_ako_yHmhOZLSY4h9g/edit?usp=share_link)
+
+# Task 4
+## Subtask 1
+**_Utworzenie formatki do zgłaszania błędów systemu_**
+
+[https://docs.google.com/spreadsheets/d/1yCeeWf-ISBvea9RQM70rvpBPtHt-vEM5VqpeRxBytdo/edit?usp=share_link](https://docs.google.com/spreadsheets/d/1yCeeWf-ISBvea9RQM70rvpBPtHt-vEM5VqpeRxBytdo/edit?usp=share_link)
+
